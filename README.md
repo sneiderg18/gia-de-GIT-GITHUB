@@ -103,3 +103,15 @@ git push -u origin main
 
 ## 3 Push al repositorio remoto
 ![Push al repositorio remoto](./capturas/Screenshot%202025-11-02%20171436.png)
+
+## 4 Push al repositorio remoto
+![Push al repositorio remoto](./capturas/Screenshot%202025-11-02%20173320.png)
+
+## 5 Push al repositorio remoto
+![Push al repositorio remoto](./capturas/Screenshot%202025-11-02%20173346.png)
+
+## 6 Push al repositorio remoto
+![Push al repositorio remoto](./capturas/Screenshot%202025-11-02%20173405.png)
+
+## 7 Push al repositorio remoto
+![Push al repositorio remoto](./capturas/Screenshot%202025-11-02%20173422.png)
