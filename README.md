@@ -93,3 +93,13 @@ git remote -v
 git push -u origin main
 
 ```
+# Evidencias de Git y GitHub
+
+## 1 Clonación del repositorio
+![Clonación del repositorio](./capturas/Screenshot%202025-11-02%20171317.png)
+
+## 2 Confirmación (commit)
+![Commit realizado](./capturas/Screenshot%202025-11-02%20171354.png)
+
+## 3 Push al repositorio remoto
+![Push al repositorio remoto](./capturas/Screenshot%202025-11-02%20171436.png)
